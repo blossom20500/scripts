@@ -181,4 +181,3 @@ spawn(function()
         end)
     end
 end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/blossom20500/scripts/refs/heads/main/script4.lua"))()
